@@ -1,0 +1,17 @@
+body{
+  background-color: #e1f2fb
+}
+hr{
+  border-style: dotted none none none;
+  border-width: 5px;
+  border-color: grey;
+  width: 6%
+}
+h1{
+  color:#588da8;
+  font-family: "Impact";
+}
+h3{
+  color:#588da8;
+  font-family: Impact;
+}
